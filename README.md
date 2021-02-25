@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/gabsschrodinger.svg">
+
