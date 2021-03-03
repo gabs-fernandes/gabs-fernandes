@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/gabsschrodinger.svg">
 
-<h3 align="center" target="_blank">Projects:</h3>
+<h3 align="center">Projects:</h3>
 <p align="center">
+    <a href="https://snake-game-plum.vercel.app/">Snake Game</a><br>
     <a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix home page clone</a><br>
     <a href="https://instagram-login-page.vercel.app/">Instagram login page clone</a>
 </p>
