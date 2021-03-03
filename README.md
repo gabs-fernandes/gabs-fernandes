@@ -16,6 +16,16 @@
     <code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 </p>
 
+<br>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="center" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
+    </tr>
+  </table>
+</center>
+
 <!--
 <p align="center">
   <a href="https://github.com/https://github.com/gabsschrodinger">
