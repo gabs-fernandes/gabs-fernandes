@@ -20,16 +20,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight"/></td>
     </tr>
   </table>
 </center>
-
-<!--
-<p align="center">
-  <a href="https://github.com/https://github.com/gabsschrodinger">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabsschrodinger&theme=monokai&show_icons=true" />
-  </a>
-</p>
--->
