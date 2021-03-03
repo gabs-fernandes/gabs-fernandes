@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/gabsschrodinger.svg">
 
 <h3 align="center" target="_blank">Projects:</h3>
-<p align="center"><a href="https://instagram-login-page.vercel.app/">Instagram login page clone</a></p>
+<p align="center"><a href="https://instagram-login-page.vercel.app/">Instagram login page clone</a><br><a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix home page clone</a></p>
 
 <br><p align="center">
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
