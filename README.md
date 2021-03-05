@@ -4,7 +4,7 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">
-    <a href="https://snake-game-plum.vercel.app/">Snake Game</a><br>
+    <a href="https://snake-game-plum.vercel.app/" target="_blank">Snake Game</a><br>
     <a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix home page clone</a><br>
     <a href="https://instagram-login-page.vercel.app/">Instagram login page clone</a>
 </p>
