@@ -16,6 +16,7 @@
     <code><img height="40" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4"></code>
     <code><img height="40" src="https://avatars0.githubusercontent.com/u/317776?s=200&v=4"></code>
     <code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-plain.svg"></code>
 </p>
 
 <br>
