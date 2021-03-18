@@ -4,11 +4,11 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">
+    <a href="https://pokedex-gabsschrodinger.vercel.app/" target="_blank">Pokedex</a><br>
     <a href="https://snake-game-plum.vercel.app/" target="_blank">Snake Game</a><br>
     <a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix Home Page clone</a><br>
     <a href="https://product-landing-page-pi.vercel.app/">Product Landing Page</a><br>
-    <a href="https://hack-ide-kappa.vercel.app/">Hack IDE</a><br>
-    <a href="https://instagram-login-page.vercel.app/">Instagram Login Page</a>
+    <a href="https://hack-ide-kappa.vercel.app/">Hack IDE</a>
 </p>
 
 <br><p align="center">
