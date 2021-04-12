@@ -25,7 +25,7 @@
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsschrodinger&layout=compact&theme=tokyonight&langs_count=8"/></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsschrodinger&hide=html&layout=compact&theme=tokyonight&langs_count=8"/></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabsschrodinger&hide=html&layout=compact&show_icons=true&theme=tokyonight"/></td>
     </tr>
   </table>
