@@ -5,7 +5,6 @@
 <h3 align="center">Projects:</h3>
 <p align="center">
     <a href="https://efeitoeco-frontend.vercel.app/">Efeito Eco</a><br>
-    <a href="https://pokedex-gabsschrodinger.vercel.app/" target="_blank">Pokedex</a><br>
     <a href="https://snake-game-plum.vercel.app/" target="_blank">Snake Game</a><br>
     <a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix Home Page clone</a><br>
     <a href="https://product-landing-page-pi.vercel.app/">Product Landing Page</a>
