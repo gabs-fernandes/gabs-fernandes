@@ -4,6 +4,7 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">
+    <a href="https://hp-wiki.vercel.app/">HP WIKI</a><br>
     <a href="https://efeitoeco-frontend.vercel.app/">Efeito Eco</a><br>
     <a href="https://snake-game-plum.vercel.app/" target="_blank">Snake Game</a><br>
     <a href="https://netflix-clone-steel-alpha.vercel.app/">Netflix Home Page clone</a><br>
@@ -13,7 +14,6 @@
 <br><p align="center">
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="40" src="https://image.flaticon.com/icons/svg/226/226777.svg"></code>
     <code><img height="40" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4"></code>
     <code><img height="40" src="https://avatars0.githubusercontent.com/u/317776?s=200&v=4"></code>
     <code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
