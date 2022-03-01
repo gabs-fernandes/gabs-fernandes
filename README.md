@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/dev_json.svg">
+<img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/carbon.svg">
 
 <h3 align="center">Projects:</h3>
 <p align="center">
