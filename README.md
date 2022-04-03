@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/gabsschrodinger/gabsschrodinger/main/carbon.svg">
+<img src="https://raw.githubusercontent.com/gabs-fernandes/gabs-fernandes/main/carbon.svg">
 
 <h3 align="center">Projects:</h3>
 <p align="center">
@@ -24,8 +24,8 @@
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsschrodinger&hide=html,dockerfile&layout=compact&theme=tokyonight&langs_count=8"/></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabsschrodinger&hide=html&layout=compact&show_icons=true&theme=tokyonight"/></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fernandes&hide=html,dockerfile&layout=compact&theme=tokyonight&langs_count=8"/></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabs-fernandes&hide=html&layout=compact&show_icons=true&theme=tokyonight"/></td>
     </tr>
   </table>
 </center>
