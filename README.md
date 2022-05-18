@@ -3,6 +3,7 @@
 <h3 align="center">Projects:</h3>
 <p align="center">
     <a href="https://www.npmjs.com/package/class-handler">class-handler</a><br>
+    <a href="https://www.npmjs.com/package/git-reports">git-reports</a><br>
 </p>
 
 <br><p align="center">
